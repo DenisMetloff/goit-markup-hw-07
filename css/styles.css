@@ -33,7 +33,7 @@ body {
   color: var(--header-info);
   background-color: var(--white);
   margin: 0;
-  background-color:#404bbf;
+  background: color #404bb4 ;
 }
 
 *,
